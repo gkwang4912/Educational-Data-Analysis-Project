@@ -1,0 +1,6 @@
+analyze-behavior：https://analyze-behavior-484866813917.asia-east1.run.app
+analyze-practice：https://analyze-practice-484866813917.asia-east1.run.app
+analyze-school：https://analyze-school-484866813917.asia-east1.run.app
+
+
+loadAnalyize：https://analyze-behavior-484866813917.asia-east1.run.app/
